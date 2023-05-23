@@ -1,13 +1,9 @@
 <?php
-// user defined constants
-define("SCREENWITHD", 1920);
-define("SCREENHEIGHT", 1080);
-define("MODE", "2D");
-
-print("Width:" . SCREENWITHD);
-print("<br />height: ". SCREENHEIGHT);
-
-// magic contstants
-print("<br /> File Name: ". __FILE__ );
-
+// definition of variables
+    $name = "Gr8lady";
+    $luckyNumber = "8";
+    
+// now we display the variables
+    print("My name is: ". $name);
+    print("<br />My lucky number is :" . $luckyNumber);
 ?>
