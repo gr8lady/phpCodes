@@ -1,6 +1,6 @@
 <!DOCTYPPE html>
 <html>
-    <head> Integrating php and HTML</head>
+    <head>Hello World Integrating php and HTML</head>
 <body>
     <h1> welcome to php</h1>
     <!--inline php block-->
